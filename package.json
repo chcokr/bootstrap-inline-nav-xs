@@ -1,6 +1,6 @@
 {
   "name": "chcokr-bootstrap-reset",
-  "version": "",
+  "version": "0.0.0",
   "description": "Don't collapse your navs in xs viewport into multiple lines",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
