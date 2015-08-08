@@ -11,7 +11,7 @@ to this:
 
 ![with](./with.png)
 
-```
+```LESS
 // in your LESS file
 
 @import "../node_modules/bootstrap/less/bootstrap";
