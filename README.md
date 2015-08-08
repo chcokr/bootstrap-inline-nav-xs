@@ -3,8 +3,13 @@
 Import `inline-nav-xs.less` into your LESS file if you don't want collapse your
 navs in the navbar into multiple lines in xs viewport.
 
-![with](./with.png)
+Go from this:
+
 ![without](./without.png)
+
+to this:
+
+![with](./with.png)
 
 ```
 // in your LESS file
