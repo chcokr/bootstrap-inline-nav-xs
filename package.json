@@ -1,0 +1,24 @@
+{
+  "name": "chcokr-bootstrap-reset",
+  "version": "",
+  "description": "Don't collapse your navs in xs viewport into multiple lines",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chcokr/bootstrap-inline-nav-xs.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "inline",
+    "nav",
+    "less"
+  ],
+  "author": "YJ Yang <chcokr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chcokr/bootstrap-inline-nav-xs/issues"
+  },
+  "homepage": "https://github.com/chcokr/bootstrap-inline-nav-xs#readme"
+}

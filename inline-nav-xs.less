@@ -1,0 +1,14 @@
+@media screen and (max-width: @screen-sm-min) {
+  .navbar-right {
+    margin-top:
+    floor((@navbar-height - @line-height-computed -
+        extract(@nav-link-padding, 1) * 2) / 2);
+    position: absolute;
+    right: floor(@grid-gutter-width / 2);
+    top: 0;
+  }
+
+  .navbar-right > li {
+    display: inline-block;
+  }
+}
