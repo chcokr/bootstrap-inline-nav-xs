@@ -1,5 +1,5 @@
 {
-  "name": "chcokr-bootstrap-reset",
+  "name": "bootstrap-inline-nav-xs",
   "version": "0.0.0",
   "description": "Don't collapse your navs in xs viewport into multiple lines",
   "scripts": {
